@@ -1,8 +1,7 @@
 # Oceanografia Integrativa I (2024)
-# Parte II: Análise de séries temporais
-Instituto Oceanográfico</br>
-Universida de Sao Paulo</br>
-Professores: Cesar Rocha, Rubens Figueira e Michel Mahiques
+## Parte II: Análise de séries temporais
+Instituto Oceanográfico, USP</br>
+Responsáveis: Cesar Rocha, Rubens Figueira e Michel Mahiques
 
 ### Programa
 | Data          | Conteúdo                              | Demos |
