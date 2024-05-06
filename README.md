@@ -3,7 +3,7 @@
 Instituto Oceanográfico, USP</br>
 Responsáveis: Cesar Rocha, Rubens Figueira e Michel Mahiques
 
-### Programa
+### Programa (apenas parte do Prof. Cesar)
 | Data          | Conteúdo                              | Demos |
 |:--------------------------|:---------------------------------|:--------------|
 |  06/05/2024   |  Aula 1: [Distribuição temporal de variáveis oceanográficas](slides/)       |   Notebooks [00](code/00_NivelDoMar_Cananeia.ipynb), [01](code/01_CO2Atmosferico_ManuaLoa.ipynb) e [02](code/02_VelocidadeFundeioWOCE-W333.ipynb)        |
